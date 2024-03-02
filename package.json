@@ -1,0 +1,38 @@
+{
+  "name": "graze",
+  "version": "1.0.0",
+  "description": "Food Ordering Web-App",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyas-Ingale/Graze.git"
+  },
+  "keywords": [
+    "react",
+    "food",
+    "app"
+  ],
+  "author": "Shreyas Ingale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyas-Ingale/Graze/issues"
+  },
+  "homepage": "https://github.com/Shreyas-Ingale/Graze#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "postcss": "^8.4.32",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
